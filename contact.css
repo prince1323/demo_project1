@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cont_h1 {
+    margin-left: -44%;
+}
+
+
+.contact-form {
+    display: grid;
+    color: rgb(31, 233, 233);
+    margin: 2% 20%;
+}
+
+h1 {
+    text-align: center;
+}
+
+label {
+    margin-top: 1.5%;
+    font-size: 1.5rem;
+}
+
+input {
+    height: 4vh;
+    margin-top: 5px;
+    border-radius: 6px;
+    padding-left: 4px;
+    font-size: 0.9rem;
+}
+
+#Fquery {
+    height: 23vh;
+    padding-bottom: 15%;
+    padding-left: 4px;
+}
+
+.subBtn {
+    margin-top: 2%;
+    text-align: center;
+}
+
+.subBtn input {
+    width: 12%;
+    height: 110%;
+    background-color: #5656d6;
+    color: wheat;
+    font-size: 1.3rem;
+}
+
+footer {
+    height: 40px;
+    background-color: rgba(128, 128, 128, 0.5);
+    color: white;
+    text-align: center;
+    padding: 0.8%;
+    margin-top: 2%;
+    font-size: 1.2rem;
+}
